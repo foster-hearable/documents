@@ -3,5 +3,7 @@
 - 総合カタログ：[https://foster-hearable.github.io/documents/フォスター電機パンフレット_2024秋.pdf](https://foster-hearable.github.io/documents/%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC%E9%9B%BB%E6%A9%9F%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88_2024%E7%A7%8B.pdf)
 
 - ヘッドマウントカメラとの同期記録データ
-[![ビデオを見る](https://github.com/foster-hearable/documents/blob/ef8b5b8f901b34082af3f65575ec4e57d0bc4c54/Record_with_headmount-camera.png?raw=true)](https://github.com/foster-hearable/documents/raw/8a1116f260f43609dd1c4c5d31655d7e0225fe4e/Record_with_headmount-camera.mp4)
+https://github.com/user-attachments/assets/190bc4d9-8861-4abc-a850-9126a95f691f
+
+https://github.com/foster-hearable/documents/raw/8a1116f260f43609dd1c4c5d31655d7e0225fe4e/Record_with_headmount-camera.mp4
 
