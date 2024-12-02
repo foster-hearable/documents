@@ -4,7 +4,8 @@
 
 - ヘッドマウントカメラとの同期記録データ
 
-https://github.com/user-attachments/assets/190bc4d9-8861-4abc-a850-9126a95f691f
+https://github.com/user-attachments/assets/415566f7-0bae-4c84-bbee-5bfdcc9583b8
 
-このムービーの元データは[こちら](https://github.com/foster-hearable/documents/raw/8a1116f260f43609dd1c4c5d31655d7e0225fe4e/Record_with_headmount-camera.mp4)
+
+このムービーの元データ（全体：1分31秒）は[こちら](https://github.com/foster-hearable/documents/raw/8a1116f260f43609dd1c4c5d31655d7e0225fe4e/Record_with_headmount-camera.mp4)
 
